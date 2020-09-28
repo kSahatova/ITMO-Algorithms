@@ -1,2 +1,2 @@
 # ITMO-Algorithms
-Tasks for course "Analysis and Development of Algorithms"
+Tasks for the course "Analysis and Development of Algorithms"
